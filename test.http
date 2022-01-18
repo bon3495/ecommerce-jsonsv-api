@@ -3,7 +3,7 @@
 #Categories
 
 # @name getAllCategories
-GET {{baseURL}}/api/products?name_like=denim
+GET {{baseURL}}/api/products?category=suits&_page=1&_limit=5
 
 ###
 
