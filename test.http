@@ -1,0 +1,34 @@
+@baseURL = http://localhost:3000
+
+#Categories
+
+# @name getAllCategories
+GET {{baseURL}}/api/products?name_like=denim
+
+###
+
+# @name addNewCategory
+POST {{baseURL}}/categories
+Content-Type: application/json
+
+{
+    "name": "Sneakers"
+}
+
+###
+
+# @name updateCategory
+PATCH {{baseURL}}/categories/7
+Content-Type: application/json
+
+{
+    "title": "Joggers",
+    "imageUrl": "https://images.asos-media.com/products/topman-co-ord-wide-leg-jogger-in-stone/200851044-1-stone?$n_640w$&wid=634&fit=constrain",
+    "linkUrl": "joggers"
+}
+
+###
+
+# @name deleteCategory
+DELETE  {{baseURL}}/categories/7
+Content-Type: application/json
