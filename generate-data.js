@@ -46,6 +46,7 @@ const productsData = [
     discount: 10,
     brand: 'Parlez',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "The designers behind Parlez draw on a love of street culture to craft their collection of hoodies, sweatshirts and T-shirts. Inspired by sportswear and nautical aesthetics, the label focuses on stripped-back silhouettes, utility and understated branding. Check out our ASOS edit to discover our top picks from the brand's offering.",
@@ -77,6 +78,7 @@ const productsData = [
     discount: 10,
     brand: 'Parlez',
     isFreeship: false,
+    ratingValue: 4,
     desc: {
       brand:
         "The designers behind Parlez draw on a love of street culture to craft their collection of hoodies, sweatshirts and T-shirts. Inspired by sportswear and nautical aesthetics, the label focuses on stripped-back silhouettes, utility and understated branding. Check out our ASOS edit to discover our top picks from the brand's offering.",
@@ -108,6 +110,7 @@ const productsData = [
     discount: 15,
     brand: 'The North Face',
     isFreeship: false,
+    ratingValue: 5,
     desc: {
       brand:
         'Founded by a pair of hiking enthusiasts, outdoor clothing and equipment brand The North Face is always ready for adventure. From T-shirts and hoodies to waterproof jackets and super-cosy fleeces, the label mixes technical fabrics with a flex-worthy aesthetic - think climbing gear meets cult streetwear. Shop The North Face at ASOS edit for new-season drops, plus all-weather bags, caps and trainers. The pinnacle of cool? We think so.',
@@ -139,6 +142,7 @@ const productsData = [
     discount: 25,
     brand: 'The North Face',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Born from two hikers' love for adventure, The North Face has become one of the best-known brands for outdoor clothing and equipment. Look to our The North Face at ASOS edit to cop cult streetwear pieces, including T-shirts, joggers and hoodies, or unlock new levels of warmth with the label's covetable waterproof coats, windbreakers, ski jackets and snug fleeces. Hitting the trail? Scroll everything from hard-wearing trainers to super-strong bags and backpacks.",
@@ -170,6 +174,7 @@ const productsData = [
     discount: 20,
     brand: 'The North Face',
     isFreeship: true,
+    ratingValue: 3.5,
     desc: {
       brand:
         "Born from two hikers' love for adventure, The North Face has become one of the best-known brands for outdoor clothing and equipment. Look to our The North Face at ASOS edit to cop cult streetwear pieces, including T-shirts, joggers and hoodies, or unlock new levels of warmth with the label's covetable waterproof coats, windbreakers, ski jackets and snug fleeces. Hitting the trail? Scroll everything from hard-wearing trainers to super-strong bags and backpacks.",
@@ -201,6 +206,7 @@ const productsData = [
     discount: 25,
     brand: 'The North Face',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Born from two hikers' love for adventure, The North Face has become one of the best-known brands for outdoor clothing and equipment. Look to our The North Face at ASOS edit to cop cult streetwear pieces, including T-shirts, joggers and hoodies, or unlock new levels of warmth with the label's covetable waterproof coats, windbreakers, ski jackets and snug fleeces. Hitting the trail? Scroll everything from hard-wearing trainers to super-strong bags and backpacks.",
@@ -232,6 +238,7 @@ const productsData = [
     discount: 15,
     brand: 'The North Face',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Born from two hikers' love for adventure, The North Face has become one of the best-known brands for outdoor clothing and equipment. Look to our The North Face at ASOS edit to cop cult streetwear pieces, including T-shirts, joggers and hoodies, or unlock new levels of warmth with the label's covetable waterproof coats, windbreakers, ski jackets and snug fleeces. Hitting the trail? Scroll everything from hard-wearing trainers to super-strong bags and backpacks.",
@@ -263,6 +270,7 @@ const productsData = [
     discount: 15,
     brand: 'The North Face',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Born from two hikers' love for adventure, The North Face has become one of the best-known brands for outdoor clothing and equipment. Look to our The North Face at ASOS edit to cop cult streetwear pieces, including T-shirts, joggers and hoodies, or unlock new levels of warmth with the label's covetable waterproof coats, windbreakers, ski jackets and snug fleeces. Hitting the trail? Scroll everything from hard-wearing trainers to super-strong bags and backpacks.",
@@ -296,6 +304,7 @@ const productsData = [
     discount: 10,
     brand: 'The North Face',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Born from two hikers' love for adventure, The North Face has become one of the best-known brands for outdoor clothing and equipment. Look to our The North Face at ASOS edit to cop cult streetwear pieces, including T-shirts, joggers and hoodies, or unlock new levels of warmth with the label's covetable waterproof coats, windbreakers, ski jackets and snug fleeces. Hitting the trail? Scroll everything from hard-wearing trainers to super-strong bags and backpacks.",
@@ -327,6 +336,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -359,6 +369,7 @@ const productsData = [
     discount: 10,
     brand: 'ASOS DESIGN',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -391,6 +402,7 @@ const productsData = [
     discount: 10,
     brand: 'ASOS DESIGN',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -422,6 +434,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -455,6 +468,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -487,6 +501,7 @@ const productsData = [
     discount: 20,
     brand: 'Tommy Hilfiger',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Whether it's an embroidered logo, a bold graphic print or its iconic red, white and blue colour-blocking, there's no mistaking Tommy Hilfiger. Flying the flag for all things retro 90s, scroll our Tommy Hilfiger at ASOS edit, featuring wardrobe-ready casualwear - think T-shirts, sweatshirts and joggers, as well as smart shirts, accessories, underwear and swimwear. Shop Tommy Jeans for classic denim pieces, or filter by Tommy Sport for workout gear that'll get you motivated.",
@@ -520,6 +535,7 @@ const productsData = [
     discount: 25,
     brand: 'Tommy Hilfiger',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Whether it's an embroidered logo, a bold graphic print or its iconic red, white and blue colour-blocking, there's no mistaking Tommy Hilfiger. Flying the flag for all things retro 90s, scroll our Tommy Hilfiger at ASOS edit, featuring wardrobe-ready casualwear - think T-shirts, sweatshirts and joggers, as well as smart shirts, accessories, underwear and swimwear. Shop Tommy Jeans for classic denim pieces, or filter by Tommy Sport for workout gear that'll get you motivated.",
@@ -551,6 +567,7 @@ const productsData = [
     discount: 25,
     brand: 'Adidas',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Adidas needs no introduction. The brand's famous 3-Stripes can be seen on the track, field and in the latest streetwear trends. Scroll the adidas at ASOS edit to get your fix, from fresh trainers from the iconic Superstar, Stan Smith, Gazelle and Continental 80 collections to archive-inspired adidas Originals tracksuits, T-shirts and sweatshirts. And if you're in need of some fresh kit, then cop yourself some sweat-wicking shorts, vests and compression tights from adidas Performance.",
@@ -583,6 +600,7 @@ const productsData = [
     discount: 10,
     brand: 'Adidas',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Adidas needs no introduction. The brand's famous 3-Stripes can be seen on the track, field and in the latest streetwear trends. Scroll the adidas at ASOS edit to get your fix, from fresh trainers from the iconic Superstar, Stan Smith, Gazelle and Continental 80 collections to archive-inspired adidas Originals tracksuits, T-shirts and sweatshirts. And if you're in need of some fresh kit, then cop yourself some sweat-wicking shorts, vests and compression tights from adidas Performance.",
@@ -610,6 +628,7 @@ const productsData = [
     discount: 25,
     brand: 'Adidas',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Adidas needs no introduction. The brand's famous 3-Stripes can be seen on the track, field and in the latest streetwear trends. Scroll the adidas at ASOS edit to get your fix, from fresh trainers from the iconic Superstar, Stan Smith, Gazelle and Continental 80 collections to archive-inspired adidas Originals tracksuits, T-shirts and sweatshirts. And if you're in need of some fresh kit, then cop yourself some sweat-wicking shorts, vests and compression tights from adidas Performance.",
@@ -642,6 +661,7 @@ const productsData = [
     discount: 15,
     brand: 'Adidas',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Adidas needs no introduction. The brand's famous 3-Stripes can be seen on the track, field and in the latest streetwear trends. Scroll the adidas at ASOS edit to get your fix, from fresh trainers from the iconic Superstar, Stan Smith, Gazelle and Continental 80 collections to archive-inspired adidas Originals tracksuits, T-shirts and sweatshirts. And if you're in need of some fresh kit, then cop yourself some sweat-wicking shorts, vests and compression tights from adidas Performance.",
@@ -669,6 +689,7 @@ const productsData = [
     discount: 15,
     brand: 'Calvin Klein',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Underwear authority and all-round fashion icon, Calvin Klein puts a designer stamp on clean, casual-cool staples. From shirts to waistbands, the brand's famous CK logo serves up instant style points. Refresh your basics with jeans, T-shirts and sweatshirts, cop some fresh loungewear or fix up in tailored suit jackets, smart trousers and signature fragrances, all available in our Calvin Klein at ASOS edit. It doesn't get better than a new pair of CK briefs, either.",
@@ -700,6 +721,7 @@ const productsData = [
     discount: 30,
     brand: 'Calvin Klein',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Underwear authority and all-round fashion icon, Calvin Klein puts a designer stamp on clean, casual-cool staples. From shirts to waistbands, the brand's famous CK logo serves up instant style points. Refresh your basics with jeans, T-shirts and sweatshirts, cop some fresh loungewear or fix up in tailored suit jackets, smart trousers and signature fragrances, all available in our Calvin Klein at ASOS edit. It doesn't get better than a new pair of CK briefs, either.",
@@ -733,6 +755,7 @@ const productsData = [
     discount: 45,
     brand: 'Calvin Klein',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Underwear authority and all-round fashion icon, Calvin Klein puts a designer stamp on clean, casual-cool staples. From shirts to waistbands, the brand's famous CK logo serves up instant style points. Refresh your basics with jeans, T-shirts and sweatshirts, cop some fresh loungewear or fix up in tailored suit jackets, smart trousers and signature fragrances, all available in our Calvin Klein at ASOS edit. It doesn't get better than a new pair of CK briefs, either.",
@@ -765,6 +788,7 @@ const productsData = [
     discount: 30,
     brand: 'Calvin Klein',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Underwear authority and all-round fashion icon, Calvin Klein puts a designer stamp on clean, casual-cool staples. From shirts to waistbands, the brand's famous CK logo serves up instant style points. Refresh your basics with jeans, T-shirts and sweatshirts, cop some fresh loungewear or fix up in tailored suit jackets, smart trousers and signature fragrances, all available in our Calvin Klein at ASOS edit. It doesn't get better than a new pair of CK briefs, either.",
@@ -798,6 +822,7 @@ const productsData = [
     discount: 5,
     brand: 'Reebok',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Since 1895, Reebok's ancestor company have been developing their line of running shoes and trainers. With the brand launched in its own right in 1958, Reebok have aligned themselves with some of the world's top athletes, continually building upon their own heritage and authenticity through high performance credentials and innovative technology.",
@@ -829,6 +854,7 @@ const productsData = [
     discount: 15,
     brand: 'Karl Kani',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Unable to find apparel that expressed his style the way he wanted, Karl Kani decided to take matters into his own hands. At just 16, the Brooklyn-born designer began making his own clothes to reflect the hip-hop influences and street culture he grew up with and that helped shape him. Today, Karl Kani is best known for his eponymous fashion label - which is now available on ASOS. Check out our edit of the brand's shirts, sweats, denim and accessories.",
@@ -856,6 +882,7 @@ const productsData = [
     discount: 15,
     brand: 'Hugo Boss',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "If you need an excuse for a wardrobe update, Hugo Boss is it. Best known for its tailoring finesse, the luxury German fashion brand has your back when it comes to quality design. The label's BOSS and HUGO collections feature everything from razor-sharp suiting and refined casualwear to modern athleisure with effortless weekend appeal. Scroll iconic watches, boxers and trainers, or cop new-season T-shirts, shirts, jeans and jackets in our Hugo Boss at ASOS edit.",
@@ -887,6 +914,7 @@ const productsData = [
     discount: 25,
     brand: 'Abercrombie & Fitch',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'The modern Abercrombie & Fitch is the next generation of effortless all-American style. The essence of laidback sophistication with an element of simplicity, A&F sets the standard for great taste. From classic campus experiences to collecting moments while travelling, A&F brings stories of adventure and discovery to life. Confident and engaging, the Abercrombie & Fitch legacy is rooted in a heritage of quality craftsmanship and focused on a future of creative ambition.',
@@ -918,6 +946,7 @@ const productsData = [
     discount: 40,
     brand: 'Topman',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -950,6 +979,7 @@ const productsData = [
     discount: 15,
     brand: 'Nike',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'When it comes to innovative sportswear, no brand does it better than Nike. Discover the best-selling trainers in the game in our Nike at ASOS edit, from Air Force 1s to super-cushioned VaporMax styles. Browse techy T-shirts, shorts and joggers from Nike Training, Nike Running and Nike Football, as well as sports accessories like arm bands and fitness aids. Nike SB nails casual days with hoodies, sweatshirts and chinos, too.',
@@ -981,6 +1011,7 @@ const productsData = [
     discount: 10,
     brand: 'Nike',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'When it comes to innovative sportswear, no brand does it better than Nike. Discover the best-selling trainers in the game in our Nike at ASOS edit, from Air Force 1s to super-cushioned VaporMax styles. Browse techy T-shirts, shorts and joggers from Nike Training, Nike Running and Nike Football, as well as sports accessories like arm bands and fitness aids. Nike SB nails casual days with hoodies, sweatshirts and chinos, too.',
@@ -1012,6 +1043,7 @@ const productsData = [
     discount: 15,
     brand: 'Nike',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'When it comes to innovative sportswear, no brand does it better than Nike. Discover the best-selling trainers in the game in our Nike at ASOS edit, from Air Force 1s to super-cushioned VaporMax styles. Browse techy T-shirts, shorts and joggers from Nike Training, Nike Running and Nike Football, as well as sports accessories like arm bands and fitness aids. Nike SB nails casual days with hoodies, sweatshirts and chinos, too.',
@@ -1043,6 +1075,7 @@ const productsData = [
     discount: 15,
     brand: 'Nike',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'When it comes to innovative sportswear, no brand does it better than Nike. Discover the best-selling trainers in the game in our Nike at ASOS edit, from Air Force 1s to super-cushioned VaporMax styles. Browse techy T-shirts, shorts and joggers from Nike Training, Nike Running and Nike Football, as well as sports accessories like arm bands and fitness aids. Nike SB nails casual days with hoodies, sweatshirts and chinos, too.',
@@ -1075,6 +1108,7 @@ const productsData = [
     discount: 25,
     brand: 'Timberland',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "With a rich New England heritage, Timberland's signature work boots were quickly adopted by a new wave of youth culture. With a rugged feel and reputation for quality, Timberland keeps it laid-back and low-key across a range of boots, jersey pieces and outerwear.",
@@ -1102,6 +1136,7 @@ const productsData = [
     discount: 5,
     brand: 'Bershka',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Taking inspiration from the latest music, technology and social media trends, Bershka serves up fresh new fashion and wardrobe staples you'll want to rotate on the regular. We're talking seriously good jeans, layer-worthy jackets, printed T-shirts and comfy-cool sweats - yup, it's got it all. Hit up the Bershka at ASOS edit to explore our pick of the brand's clothing, shoes and accessories for some serious Saved Items material.",
@@ -1133,6 +1168,7 @@ const productsData = [
     discount: 15,
     brand: 'Jack & Jones',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Founded in the 90s as a jeanswear brand, Danish label Jack & Jones has since gone on to expand its sartorial offering to include everything from jumpers, jackets and T-shirts to shoes, underwear and accessories (alongside more of its flex-worthy denim, of course). Scroll the Jack & Jones at ASOS edit to check out our latest drop of the brand's laid-back pieces.",
@@ -1164,6 +1200,7 @@ const productsData = [
     discount: 10,
     brand: 'Jack & Jones',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Founded in the 90s as a jeanswear brand, Danish label Jack & Jones has since gone on to expand its sartorial offering to include everything from jumpers, jackets and T-shirts to shoes, underwear and accessories (alongside more of its flex-worthy denim, of course). Scroll the Jack & Jones at ASOS edit to check out our latest drop of the brand's laid-back pieces.",
@@ -1195,6 +1232,7 @@ const productsData = [
     discount: 5,
     brand: 'Black',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With its Pacific Northwest home providing a backdrop of forests, mountains and a rugged coastline, US label Columbia translates its passion for the outdoors into no-nonsense apparel. Keep your cool in its jersey and outerwear.',
@@ -1222,6 +1260,7 @@ const productsData = [
     discount: 10,
     brand: 'Reclaimed Vintage',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Combining innovative design and vintage style, our Reclaimed Vintage at ASOS edit serves up a mix of fresh and throwback looks across its two distinct collections. For handpicked vintage gems and customised pieces, look to Reclaimed Vintage Revived, or shop Reclaimed Vintage Inspired to discover original designs with a vintage twist. Expect everything from oversized hoodies and patterned shirts to jewellery and accessories for completing your look.',
@@ -1249,6 +1288,7 @@ const productsData = [
     discount: 15,
     brand: 'Reclaimed Vintage',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Combining innovative design and vintage style, our Reclaimed Vintage at ASOS edit serves up a mix of fresh and throwback looks across its two distinct collections. For handpicked vintage gems and customised pieces, look to Reclaimed Vintage Revived, or shop Reclaimed Vintage Inspired to discover original designs with a vintage twist. Expect everything from oversized hoodies and patterned shirts to jewellery and accessories for completing your look.',
@@ -1276,6 +1316,7 @@ const productsData = [
     discount: 55,
     brand: 'Reclaimed Vintage',
     isFreeship: true,
+    ratingValue: 4,
     desc: {
       brand:
         'Combining innovative design and vintage style, our Reclaimed Vintage at ASOS edit serves up a mix of fresh and throwback looks across its two distinct collections. For handpicked vintage gems and customised pieces, look to Reclaimed Vintage Revived, or shop Reclaimed Vintage Inspired to discover original designs with a vintage twist. Expect everything from oversized hoodies and patterned shirts to jewellery and accessories for completing your look.',
@@ -1303,6 +1344,7 @@ const productsData = [
     discount: 45,
     brand: 'Reclaimed Vintage',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Combining innovative design and vintage style, our Reclaimed Vintage at ASOS edit serves up a mix of fresh and throwback looks across its two distinct collections. For handpicked vintage gems and customised pieces, look to Reclaimed Vintage Revived, or shop Reclaimed Vintage Inspired to discover original designs with a vintage twist. Expect everything from oversized hoodies and patterned shirts to jewellery and accessories for completing your look.',
@@ -1330,6 +1372,7 @@ const productsData = [
     discount: 30,
     brand: 'ASOS DESIGN',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -1363,6 +1406,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 3,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -1395,6 +1439,7 @@ const productsData = [
     discount: 20,
     brand: 'ASOS DESIGN',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -1426,6 +1471,7 @@ const productsData = [
     discount: 10,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 3.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -1458,6 +1504,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -1490,6 +1537,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -1522,6 +1570,7 @@ const productsData = [
     discount: 10,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -1554,6 +1603,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -1586,6 +1636,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -1618,6 +1669,7 @@ const productsData = [
     discount: 10,
     brand: 'Liquor N Poker',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With two generations of denim know-how under their belts, Brit-based denim brand Liquor N Poker push boundaries with their collection of jeans and jackets. Heavy ripping and worn-look washes feature across a range of straight, skinny and super skinny fits, with some styles exclusive to ASOS.',
@@ -1645,6 +1697,7 @@ const productsData = [
     discount: 40,
     brand: 'Liquor N Poker',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With two generations of denim know-how under their belts, Brit-based denim brand Liquor N Poker push boundaries with their collection of jeans and jackets. Heavy ripping and worn-look washes feature across a range of straight, skinny and super skinny fits, with some styles exclusive to ASOS.',
@@ -1676,6 +1729,7 @@ const productsData = [
     discount: 20,
     brand: 'Liquor N Poker',
     isFreeship: false,
+    ratingValue: 4,
     desc: {
       brand:
         'With two generations of denim know-how under their belts, Brit-based denim brand Liquor N Poker push boundaries with their collection of jeans and jackets. Heavy ripping and worn-look washes feature across a range of straight, skinny and super skinny fits, with some styles exclusive to ASOS.',
@@ -1703,6 +1757,7 @@ const productsData = [
     discount: 20,
     brand: 'Vans Drill',
     isFreeship: true,
+    ratingValue: 5,
     desc: {
       brand:
         "Land more than just tricks with skatewear label Vans. Rewriting the blueprint for board shoes everywhere since 1966, the brand's remit has expanded to include everything from durable canvas plimsolls and retro high-tops to cult slip-on trainers, plus a ramp-ready wardrobe to match. Our Vans at ASOS edit is stocked with T-shirts, hoodies and jackets, as well as a selection of hats, bags and accessories - in other words, every curb surfer's dream.",
@@ -1730,6 +1785,7 @@ const productsData = [
     discount: 20,
     brand: 'Hugo Boss',
     isFreeship: false,
+    ratingValue: 4,
     desc: {
       brand:
         "If you need an excuse for a wardrobe update, Hugo Boss is it. Best known for its tailoring finesse, the luxury German fashion brand has your back when it comes to quality design. The label's BOSS and HUGO collections feature everything from razor-sharp suiting and refined casualwear to modern athleisure with effortless weekend appeal. Scroll iconic watches, boxers and trainers, or cop new-season T-shirts, shirts, jeans and jackets in our Hugo Boss at ASOS edit.",
@@ -1761,6 +1817,7 @@ const productsData = [
     discount: 10,
     brand: 'Hugo Boss',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "If you need an excuse for a wardrobe update, Hugo Boss is it. Best known for its tailoring finesse, the luxury German fashion brand has your back when it comes to quality design. The label's BOSS and HUGO collections feature everything from razor-sharp suiting and refined casualwear to modern athleisure with effortless weekend appeal. Scroll iconic watches, boxers and trainers, or cop new-season T-shirts, shirts, jeans and jackets in our Hugo Boss at ASOS edit.",
@@ -1792,6 +1849,7 @@ const productsData = [
     discount: 10,
     brand: 'Hugo Boss',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "If you need an excuse for a wardrobe update, Hugo Boss is it. Best known for its tailoring finesse, the luxury German fashion brand has your back when it comes to quality design. The label's BOSS and HUGO collections feature everything from razor-sharp suiting and refined casualwear to modern athleisure with effortless weekend appeal. Scroll iconic watches, boxers and trainers, or cop new-season T-shirts, shirts, jeans and jackets in our Hugo Boss at ASOS edit.",
@@ -1823,6 +1881,7 @@ const productsData = [
     discount: 15,
     brand: 'Hugo Boss',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "If you need an excuse for a wardrobe update, Hugo Boss is it. Best known for its tailoring finesse, the luxury German fashion brand has your back when it comes to quality design. The label's BOSS and HUGO collections feature everything from razor-sharp suiting and refined casualwear to modern athleisure with effortless weekend appeal. Scroll iconic watches, boxers and trainers, or cop new-season T-shirts, shirts, jeans and jackets in our Hugo Boss at ASOS edit.",
@@ -1854,6 +1913,7 @@ const productsData = [
     discount: 35,
     brand: 'Pull & Bear',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Champions of the casual capsule wardrobe, make Pull&Bear your new must-scroll brand. With a focus on laid-back Californian style, the brand mixes grunge, sports and streetwear references to build its collections. Expect sweatshirts, T-shirts and jeans in our Pull&Bear at ASOS edit, alongside a line of accessories, shirts and jackets. Ready-to-wear trends delivered straight to your wardrobe? Enough said.',
@@ -1881,6 +1941,7 @@ const productsData = [
     discount: 30,
     brand: 'Pull & Bear',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Champions of the casual capsule wardrobe, make Pull&Bear your new must-scroll brand. With a focus on laid-back Californian style, the brand mixes grunge, sports and streetwear references to build its collections. Expect sweatshirts, T-shirts and jeans in our Pull&Bear at ASOS edit, alongside a line of accessories, shirts and jackets. Ready-to-wear trends delivered straight to your wardrobe? Enough said.',
@@ -1908,6 +1969,7 @@ const productsData = [
     discount: 35,
     brand: 'Pull & Bear',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Champions of the casual capsule wardrobe, make Pull&Bear your new must-scroll brand. With a focus on laid-back Californian style, the brand mixes grunge, sports and streetwear references to build its collections. Expect sweatshirts, T-shirts and jeans in our Pull&Bear at ASOS edit, alongside a line of accessories, shirts and jackets. Ready-to-wear trends delivered straight to your wardrobe? Enough said.',
@@ -1935,6 +1997,7 @@ const productsData = [
     discount: 45,
     brand: 'Hollister',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Inspired by beaches, blue skies and sunshine, Southern California label Hollister champions an endless summer. Never taking itself too seriously, its laid-back style is infused with surf and skate culture, making every T-shirt, polo shirt and hoodie effortlessly cool.',
@@ -1966,6 +2029,7 @@ const productsData = [
     discount: 20,
     brand: 'Polo Ralph Lauren',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Known for its collegiate-cool American style, heritage brand Polo Ralph Lauren is a big player in the menswear game. Sample some of its signature preppy designs with our Polo Ralph Lauren at ASOS edit, featuring iconic logo polo shirts, T-shirts, smart shirts, jumpers and chilled-out loungewear. And that's not all - with a range of underwear, swimwear and accessories too, you can pick up branded boxers, beach-ready swim shorts and a bag to fit it all in.",
@@ -1999,6 +2063,7 @@ const productsData = [
     discount: 10,
     brand: 'Lacoste',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Famed for its iconic crocodile emblem, Lacoste was founded by tennis superstar René Lacoste in 1933 and was first to introduce the pique polo shirt. Utilising its sporting background, Lacoste fuses functionality with style to create its contemporary collections, embracing a bold use of colour in a wide range of products that include its timeless polo shirt, as well as shoes, trainers and signature fragrances - and it's all available right here in the Lacoste at ASOS edit.",
@@ -2031,6 +2096,7 @@ const productsData = [
     discount: 16,
     brand: 'Lacoste',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Famed for its iconic crocodile emblem, Lacoste was founded by tennis superstar René Lacoste in 1933 and was first to introduce the pique polo shirt. Utilising its sporting background, Lacoste fuses functionality with style to create its contemporary collections, embracing a bold use of colour in a wide range of products that include its timeless polo shirt, as well as shoes, trainers and signature fragrances - and it's all available right here in the Lacoste at ASOS edit.",
@@ -2062,6 +2128,7 @@ const productsData = [
     discount: 15,
     brand: 'Liquor N Poker',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With two generations of denim know-how under their belts, Brit-based denim brand Liquor N Poker push boundaries with their collection of jeans and jackets. Heavy ripping and worn-look washes feature across a range of straight, skinny and super skinny fits, with some styles exclusive to ASOS.',
@@ -2089,6 +2156,7 @@ const productsData = [
     discount: 10,
     brand: 'Liquor N Poker',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With two generations of denim know-how under their belts, Brit-based denim brand Liquor N Poker push boundaries with their collection of jeans and jackets. Heavy ripping and worn-look washes feature across a range of straight, skinny and super skinny fits, with some styles exclusive to ASOS.',
@@ -2116,6 +2184,7 @@ const productsData = [
     discount: 20,
     brand: 'Liquor N Poker',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With two generations of denim know-how under their belts, Brit-based denim brand Liquor N Poker push boundaries with their collection of jeans and jackets. Heavy ripping and worn-look washes feature across a range of straight, skinny and super skinny fits, with some styles exclusive to ASOS.',
@@ -2143,6 +2212,7 @@ const productsData = [
     discount: 20,
     brand: 'Liquor N Poker',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With two generations of denim know-how under their belts, Brit-based denim brand Liquor N Poker push boundaries with their collection of jeans and jackets. Heavy ripping and worn-look washes feature across a range of straight, skinny and super skinny fits, with some styles exclusive to ASOS.',
@@ -2170,6 +2240,7 @@ const productsData = [
     discount: 20,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -2201,6 +2272,7 @@ const productsData = [
     discount: 25,
     brand: 'ASOS DESIGN',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -2232,6 +2304,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -2263,6 +2336,7 @@ const productsData = [
     discount: 20,
     brand: 'ASOS DESIGN',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -2294,6 +2368,7 @@ const productsData = [
     discount: 10,
     brand: 'ASOS DESIGN',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -2325,6 +2400,7 @@ const productsData = [
     discount: 10,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -2356,6 +2432,7 @@ const productsData = [
     discount: 10,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -2387,6 +2464,7 @@ const productsData = [
     discount: 35,
     brand: 'ASOS DESIGN',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -2418,6 +2496,7 @@ const productsData = [
     discount: 25,
     brand: 'Ellesse',
     isFreeship: false,
+    ratingValue: 4,
     desc: {
       brand:
         "From Italian ski and tennis apparel to iconic 80s sports fashion, ellesse proves that sportswear isn't just for getting physical. The brand nails that retro athleisure aesthetic with branded badges and oversized logos stamped across a range of T-shirts, jackets, joggers and accessories, alongside an impressive collection of signature trainers. Sold? Check out our ellesse at ASOS edit for classic streetwear, reworked.",
@@ -2449,6 +2528,7 @@ const productsData = [
     discount: 20,
     brand: 'Calvin Klein',
     isFreeship: true,
+    ratingValue: 4,
     desc: {
       brand:
         "Launching a line of golf clothing and accessories, Calvin Klein brings its modern-minimalist aesthetic to the fairways. Whatever the weather, get your gear up to par with the label's water-repellent soft-shell jackets, hooded windbreakers and tech T-shirts.",
@@ -2481,6 +2561,7 @@ const productsData = [
     discount: 15,
     brand: 'Polo Ralph Lauren',
     isFreeship: true,
+    ratingValue: 4,
     desc: {
       brand:
         "Known for its collegiate-cool American style, heritage brand Polo Ralph Lauren is a big player in the menswear game. Sample some of its signature preppy designs with our Polo Ralph Lauren at ASOS edit, featuring iconic logo polo shirts, T-shirts, smart shirts, jumpers and chilled-out loungewear. And that's not all - with a range of underwear, swimwear and accessories too, you can pick up branded boxers, beach-ready swim shorts and a bag to fit it all in.",
@@ -2512,6 +2593,7 @@ const productsData = [
     discount: 20,
     brand: 'Jack Wolfskin',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Calling all adventure lovers! Jack Wolfskin is here with all the kit you'll need for your upcoming outdoor pursuits. Big on functionality and high-performance fabrics, the brand offers a range of waterproof coats, super-cosy fleeces, and durable trousers for every scenario - think hiking and skiing to urban exploring. Come rain or snow, you'll be sure to feel at home outside with our Jack Wolfskin at ASOS edit.",
@@ -2543,6 +2625,7 @@ const productsData = [
     discount: 10,
     brand: 'The Hundreds',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Co-founded by Ben and Bobby Hundreds in 2003, The Hundreds centre on street subculture with both a clothing line and an online magazine. The Hundreds clothing looks to Los Angeles lifestyle and California culture with the worlds of skate, surf, punk and hip hop inspiring their graphic print t-shirts, jeans, sweatshirts, coats and jackets.',
@@ -2570,6 +2653,7 @@ const productsData = [
     discount: 25,
     brand: 'The Hundreds',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Co-founded by Ben and Bobby Hundreds in 2003, The Hundreds centre on street subculture with both a clothing line and an online magazine. The Hundreds clothing looks to Los Angeles lifestyle and California culture with the worlds of skate, surf, punk and hip hop inspiring their graphic print t-shirts, jeans, sweatshirts, coats and jackets.',
@@ -2601,6 +2685,7 @@ const productsData = [
     discount: 20,
     brand: 'Topman',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -2632,6 +2717,7 @@ const productsData = [
     discount: 20,
     brand: 'Topman',
     isFreeship: true,
+    ratingValue: 5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -2663,6 +2749,7 @@ const productsData = [
     discount: 15,
     brand: 'Topman',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -2695,6 +2782,7 @@ const productsData = [
     discount: 15,
     brand: 'Topman',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -2727,6 +2815,7 @@ const productsData = [
     discount: 15,
     brand: 'Bershka',
     isFreeship: false,
+    ratingValue: 3.5,
     desc: {
       brand:
         "Taking inspiration from the latest music, technology and social media trends, Bershka serves up fresh new fashion and wardrobe staples you'll want to rotate on the regular. We're talking seriously good jeans, layer-worthy jackets, printed T-shirts and comfy-cool sweats - yup, it's got it all. Hit up the Bershka at ASOS edit to explore our pick of the brand's clothing, shoes and accessories for some serious Saved Items material.",
@@ -2754,6 +2843,7 @@ const productsData = [
     discount: 15,
     brand: 'Bershka',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Taking inspiration from the latest music, technology and social media trends, Bershka serves up fresh new fashion and wardrobe staples you'll want to rotate on the regular. We're talking seriously good jeans, layer-worthy jackets, printed T-shirts and comfy-cool sweats - yup, it's got it all. Hit up the Bershka at ASOS edit to explore our pick of the brand's clothing, shoes and accessories for some serious Saved Items material.",
@@ -2785,6 +2875,7 @@ const productsData = [
     discount: 15,
     brand: 'Bershka',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Taking inspiration from the latest music, technology and social media trends, Bershka serves up fresh new fashion and wardrobe staples you'll want to rotate on the regular. We're talking seriously good jeans, layer-worthy jackets, printed T-shirts and comfy-cool sweats - yup, it's got it all. Hit up the Bershka at ASOS edit to explore our pick of the brand's clothing, shoes and accessories for some serious Saved Items material.",
@@ -2812,6 +2903,7 @@ const productsData = [
     discount: 10,
     brand: 'River Island',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         'High-street favourite River Island has been a go-to for decades. Known for adding signature detailing to its designs, expect to see classic looks with an RI twist from our River Island at ASOS edit. Scroll fresh loungewear and everyday jeans and T-shirts, or suit up in sharp tailoring, from smart shirts and shoes to suit jackets and trousers - just name the occasion.',
@@ -2843,6 +2935,7 @@ const productsData = [
     discount: 10,
     brand: 'River Island',
     isFreeship: false,
+    ratingValue: 4,
     desc: {
       brand:
         'High-street favourite River Island has been a go-to for decades. Known for adding signature detailing to its designs, expect to see classic looks with an RI twist from our River Island at ASOS edit. Scroll fresh loungewear and everyday jeans and T-shirts, or suit up in sharp tailoring, from smart shirts and shoes to suit jackets and trousers - just name the occasion.',
@@ -2870,6 +2963,7 @@ const productsData = [
     discount: 10,
     brand: 'Topman',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -2897,6 +2991,7 @@ const productsData = [
     discount: 15,
     brand: 'Topman',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -2928,6 +3023,7 @@ const productsData = [
     discount: 5,
     brand: 'Topman',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -2959,6 +3055,7 @@ const productsData = [
     discount: 15,
     brand: 'Topman',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -2990,6 +3087,7 @@ const productsData = [
     discount: 25,
     brand: 'Topman',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -3021,6 +3119,7 @@ const productsData = [
     discount: 5,
     brand: 'Topman',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Bringing you the latest in men's fashion, Topman dresses you for every occasion in your social calendar with its range of clothing, shoes and accessories. Shop our Topman at ASOS edit and slot the brand's signature denim and basic tees into your casualwear rotation, or opt for tailored shirts and trousers for days when jeans and a T-shirt don't quite cut it.",
@@ -3048,6 +3147,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -3079,6 +3179,7 @@ const productsData = [
     discount: 5,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -3111,6 +3212,7 @@ const productsData = [
     discount: 5,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -3143,6 +3245,7 @@ const productsData = [
     discount: 15,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -3175,6 +3278,7 @@ const productsData = [
     discount: 35,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -3206,6 +3310,7 @@ const productsData = [
     discount: 5,
     brand: 'ASOS DESIGN',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "This is ASOS DESIGN - your go-to for all the latest trends, no matter who you are, where you're from and what you're up to. Exclusive to ASOS, our universal brand is here for you, and comes in Plus and Tall. Created by us, styled by you.",
@@ -3237,6 +3342,7 @@ const productsData = [
     discount: 5,
     brand: 'Jack & Jones',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Founded in the 90s as a jeanswear brand, Danish label Jack & Jones has since gone on to expand its sartorial offering to include everything from jumpers, jackets and T-shirts to shoes, underwear and accessories (alongside more of its flex-worthy denim, of course). Scroll the Jack & Jones at ASOS edit to check out our latest drop of the brand's laid-back pieces.",
@@ -3268,6 +3374,7 @@ const productsData = [
     discount: 15,
     brand: 'Selected Homme',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "A staple wardrobe doesn't have to be basic, so upgrade your everyday edit with Selected Homme. Embracing a minimalist aesthetic, the brand puts a Scandi twist on contemporary styles with a focus on clean cuts and quality fabrics. Expect trend-led pieces in our Selected Homme at ASOS edit- from T-shirts, joggers and jumpers to flex-worthy tailoring, including shirts and suit trousers in contemporary fits.",
@@ -3299,6 +3406,7 @@ const productsData = [
     discount: 35,
     brand: 'Selected Homme',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "A staple wardrobe doesn't have to be basic, so upgrade your everyday edit with Selected Homme. Embracing a minimalist aesthetic, the brand puts a Scandi twist on contemporary styles with a focus on clean cuts and quality fabrics. Expect trend-led pieces in our Selected Homme at ASOS edit- from T-shirts, joggers and jumpers to flex-worthy tailoring, including shirts and suit trousers in contemporary fits.",
@@ -3330,6 +3438,7 @@ const productsData = [
     discount: 30,
     brand: 'Twisted Tailor',
     isFreeship: true,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Forget everything you thought you knew about tailoring, because Twisted Tailor is changing the game. The brand's suit jackets, trousers and waistcoats are all about dressing for yourself and no one else - think unexpected fabrics, signature-print linings and super-skinny cuts.",
@@ -3361,6 +3470,7 @@ const productsData = [
     discount: 35,
     brand: 'Twisted Tailor',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Forget everything you thought you knew about tailoring, because Twisted Tailor is changing the game. The brand's suit jackets, trousers and waistcoats are all about dressing for yourself and no one else - think unexpected fabrics, signature-print linings and super-skinny cuts.",
@@ -3391,6 +3501,7 @@ const productsData = [
     discount: 15,
     brand: 'Twisted Tailor',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Forget everything you thought you knew about tailoring, because Twisted Tailor is changing the game. The brand's suit jackets, trousers and waistcoats are all about dressing for yourself and no one else - think unexpected fabrics, signature-print linings and super-skinny cuts.",
@@ -3421,6 +3532,7 @@ const productsData = [
     discount: 5,
     brand: 'Adidas',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With a brand history stretching back over 60 years, adidas Originals draw inspiration from street culture and retro styles to provide fresh vintage inspired menswear. The adidas Originals range incorporates everything from the brands most iconic trainers to new vintage inspired clothes.',
@@ -3452,6 +3564,7 @@ const productsData = [
     discount: 5,
     brand: 'Adidas',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With a brand history stretching back over 60 years, adidas Originals draw inspiration from street culture and retro styles to provide fresh vintage inspired menswear. The adidas Originals range incorporates everything from the brands most iconic trainers to new vintage inspired clothes.',
@@ -3483,6 +3596,7 @@ const productsData = [
     discount: 5,
     brand: 'Adidas',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With a brand history stretching back over 60 years, adidas Originals draw inspiration from street culture and retro styles to provide fresh vintage inspired menswear. The adidas Originals range incorporates everything from the brands most iconic trainers to new vintage inspired clothes.',
@@ -3514,6 +3628,7 @@ const productsData = [
     discount: 5,
     brand: 'Adidas',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With a brand history stretching back over 60 years, adidas Originals draw inspiration from street culture and retro styles to provide fresh vintage inspired menswear. The adidas Originals range incorporates everything from the brands most iconic trainers to new vintage inspired clothes.',
@@ -3545,6 +3660,7 @@ const productsData = [
     discount: 5,
     brand: 'Adidas',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With a brand history stretching back over 60 years, adidas Originals draw inspiration from street culture and retro styles to provide fresh vintage inspired menswear. The adidas Originals range incorporates everything from the brands most iconic trainers to new vintage inspired clothes.',
@@ -3576,6 +3692,7 @@ const productsData = [
     discount: 5,
     brand: 'Adidas',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With a brand history stretching back over 60 years, adidas Originals draw inspiration from street culture and retro styles to provide fresh vintage inspired menswear. The adidas Originals range incorporates everything from the brands most iconic trainers to new vintage inspired clothes.',
@@ -3608,6 +3725,7 @@ const productsData = [
     discount: 5,
     brand: 'Adidas',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With a brand history stretching back over 60 years, adidas Originals draw inspiration from street culture and retro styles to provide fresh vintage inspired menswear. The adidas Originals range incorporates everything from the brands most iconic trainers to new vintage inspired clothes.',
@@ -3640,6 +3758,7 @@ const productsData = [
     discount: 5,
     brand: 'Adidas',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'With a brand history stretching back over 60 years, adidas Originals draw inspiration from street culture and retro styles to provide fresh vintage inspired menswear. The adidas Originals range incorporates everything from the brands most iconic trainers to new vintage inspired clothes.',
@@ -3672,6 +3791,7 @@ const productsData = [
     discount: 15,
     brand: 'Fila',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Founded in 1911 by the Fila brothers in Biella, Italy, Fila packs more than 100 years of heritage into its streetwear designs. After starting life producing undergarments, its iconic designs were adopted by the Casuals movement of the 80s, and the rest is streetwear history. Fila Vintage celebrates the brand's legacy with a collection of polo shirts, track tops, T-shirts and sweatpants straight from their archives.",
@@ -3703,6 +3823,7 @@ const productsData = [
     discount: 15,
     brand: 'Fila',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Founded in 1911 by the Fila brothers in Biella, Italy, Fila packs more than 100 years of heritage into its streetwear designs. After starting life producing undergarments, its iconic designs were adopted by the Casuals movement of the 80s, and the rest is streetwear history. Fila Vintage celebrates the brand's legacy with a collection of polo shirts, track tops, T-shirts and sweatpants straight from their archives.",
@@ -3734,6 +3855,7 @@ const productsData = [
     discount: 15,
     brand: 'Fila',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Founded in 1911 by the Fila brothers in Biella, Italy, Fila packs more than 100 years of heritage into its streetwear designs. After starting life producing undergarments, its iconic designs were adopted by the Casuals movement of the 80s, and the rest is streetwear history. Fila Vintage celebrates the brand's legacy with a collection of polo shirts, track tops, T-shirts and sweatpants straight from their archives.",
@@ -3765,6 +3887,7 @@ const productsData = [
     discount: 10,
     brand: 'Fila',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Founded in 1911 by the Fila brothers in Biella, Italy, Fila packs more than 100 years of heritage into its streetwear designs. After starting life producing undergarments, its iconic designs were adopted by the Casuals movement of the 80s, and the rest is streetwear history. Fila Vintage celebrates the brand's legacy with a collection of polo shirts, track tops, T-shirts and sweatpants straight from their archives.",
@@ -3796,6 +3919,7 @@ const productsData = [
     discount: 10,
     brand: 'Vans',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Land more than just tricks with skatewear label Vans. Rewriting the blueprint for board shoes everywhere since 1966, the brand's remit has expanded to include everything from durable canvas plimsolls and retro high-tops to cult slip-on trainers, plus a ramp-ready wardrobe to match. Our Vans at ASOS edit is stocked with T-shirts, hoodies and jackets, as well as a selection of hats, bags and accessories - in other words, every curb surfer's dream.",
@@ -3827,6 +3951,7 @@ const productsData = [
     discount: 10,
     brand: 'Vans',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Land more than just tricks with skatewear label Vans. Rewriting the blueprint for board shoes everywhere since 1966, the brand's remit has expanded to include everything from durable canvas plimsolls and retro high-tops to cult slip-on trainers, plus a ramp-ready wardrobe to match. Our Vans at ASOS edit is stocked with T-shirts, hoodies and jackets, as well as a selection of hats, bags and accessories - in other words, every curb surfer's dream.",
@@ -3858,6 +3983,7 @@ const productsData = [
     discount: 10,
     brand: 'Vans',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Land more than just tricks with skatewear label Vans. Rewriting the blueprint for board shoes everywhere since 1966, the brand's remit has expanded to include everything from durable canvas plimsolls and retro high-tops to cult slip-on trainers, plus a ramp-ready wardrobe to match. Our Vans at ASOS edit is stocked with T-shirts, hoodies and jackets, as well as a selection of hats, bags and accessories - in other words, every curb surfer's dream.",
@@ -3889,6 +4015,7 @@ const productsData = [
     discount: 35,
     brand: 'Vans',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Land more than just tricks with skatewear label Vans. Rewriting the blueprint for board shoes everywhere since 1966, the brand's remit has expanded to include everything from durable canvas plimsolls and retro high-tops to cult slip-on trainers, plus a ramp-ready wardrobe to match. Our Vans at ASOS edit is stocked with T-shirts, hoodies and jackets, as well as a selection of hats, bags and accessories - in other words, every curb surfer's dream.",
@@ -3920,6 +4047,7 @@ const productsData = [
     discount: 35,
     brand: 'Vans',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Land more than just tricks with skatewear label Vans. Rewriting the blueprint for board shoes everywhere since 1966, the brand's remit has expanded to include everything from durable canvas plimsolls and retro high-tops to cult slip-on trainers, plus a ramp-ready wardrobe to match. Our Vans at ASOS edit is stocked with T-shirts, hoodies and jackets, as well as a selection of hats, bags and accessories - in other words, every curb surfer's dream.",
@@ -3951,6 +4079,7 @@ const productsData = [
     discount: 10,
     brand: 'Vans',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Land more than just tricks with skatewear label Vans. Rewriting the blueprint for board shoes everywhere since 1966, the brand's remit has expanded to include everything from durable canvas plimsolls and retro high-tops to cult slip-on trainers, plus a ramp-ready wardrobe to match. Our Vans at ASOS edit is stocked with T-shirts, hoodies and jackets, as well as a selection of hats, bags and accessories - in other words, every curb surfer's dream.",
@@ -3982,6 +4111,7 @@ const productsData = [
     discount: 12,
     brand: 'Vans',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Land more than just tricks with skatewear label Vans. Rewriting the blueprint for board shoes everywhere since 1966, the brand's remit has expanded to include everything from durable canvas plimsolls and retro high-tops to cult slip-on trainers, plus a ramp-ready wardrobe to match. Our Vans at ASOS edit is stocked with T-shirts, hoodies and jackets, as well as a selection of hats, bags and accessories - in other words, every curb surfer's dream.",
@@ -4013,6 +4143,7 @@ const productsData = [
     discount: 5,
     brand: 'Vans',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         "Land more than just tricks with skatewear label Vans. Rewriting the blueprint for board shoes everywhere since 1966, the brand's remit has expanded to include everything from durable canvas plimsolls and retro high-tops to cult slip-on trainers, plus a ramp-ready wardrobe to match. Our Vans at ASOS edit is stocked with T-shirts, hoodies and jackets, as well as a selection of hats, bags and accessories - in other words, every curb surfer's dream.",
@@ -4044,6 +4175,7 @@ const productsData = [
     discount: 10,
     brand: 'Reclaimed Vintage Inspired',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Reclaimed Vintage Inspired is where fresh styles and vintage ideas meet. From style icons, end-of-line designs to old-school street brands, this range takes its inspiration from vintage shapes and pieces from around the world, as well as new-season style predictions.',
@@ -4075,6 +4207,7 @@ const productsData = [
     discount: 10,
     brand: 'Reclaimed Vintage Inspired',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Reclaimed Vintage Inspired is where fresh styles and vintage ideas meet. From style icons, end-of-line designs to old-school street brands, this range takes its inspiration from vintage shapes and pieces from around the world, as well as new-season style predictions.',
@@ -4106,6 +4239,7 @@ const productsData = [
     discount: 10,
     brand: 'Reclaimed Vintage Inspired',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Reclaimed Vintage Inspired is where fresh styles and vintage ideas meet. From style icons, end-of-line designs to old-school street brands, this range takes its inspiration from vintage shapes and pieces from around the world, as well as new-season style predictions.',
@@ -4137,6 +4271,7 @@ const productsData = [
     discount: 5,
     brand: 'Reclaimed Vintage Inspired',
     isFreeship: false,
+    ratingValue: 4.5,
     desc: {
       brand:
         'Reclaimed Vintage Inspired is where fresh styles and vintage ideas meet. From style icons, end-of-line designs to old-school street brands, this range takes its inspiration from vintage shapes and pieces from around the world, as well as new-season style predictions.',
