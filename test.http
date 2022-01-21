@@ -3,7 +3,7 @@
 #Categories
 
 # @name getAllCategories
-GET {{baseURL}}/api/categories?routeName=hoodie
+GET {{baseURL}}/api/products?_order=desc&_sort=newPrice
 
 ###
 
