@@ -4317,7 +4317,7 @@ const handleProducts = categories => {
       ...product,
       id: uuidv4(),
       categoryId: category.id,
-      newPrice: (product.originPrice * (100 - product.discount)).toFixed(2),
+      newPrice: (category.originPrice * (100 - category.discount)).toFixed(2),
     };
   });
 
