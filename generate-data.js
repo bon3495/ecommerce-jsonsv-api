@@ -4317,6 +4317,7 @@ const handleProducts = categories => {
       ...product,
       id: uuidv4(),
       categoryId: category.id,
+      newPrice: ((product.originPrice * product.discount) / 100).toFixed(2),
     };
   });
 
@@ -4333,9 +4334,6 @@ const handleProducts = categories => {
   const db = {
     categories: categoriesList,
     products: productsList,
-    profile: {
-      name: 'Bon',
-    },
   };
 
   // write db object to db.json
